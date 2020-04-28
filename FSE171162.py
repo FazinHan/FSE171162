@@ -16,6 +16,9 @@ def freq(a):                                #the function that creates a frequec
 	
 def distr(a):
 	perc = []								#percentage occurence per letter
+	d = 0
 	for i in range(26):
-		perc.append((a[i]/float(len(a)))*100)
-	return perc	
+		d += a[i]
+	for i in range(26):
+		perc.append((a[i]/float(d))*100)
+	return perc 
