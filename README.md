@@ -7,13 +7,11 @@ To get a copy of the code in this [repository][a], you're
 going to have to [pull][1] to your machine. Make yourself    
 a [branch][2] to [commit][3] to too.    
 
-----
-
 ### Here are a bunch of links to help you get started:     
 
-- [A quick video on how GitHub works](https://youtu.be/w3jLJU7DT5E "YouTube link you see")    
-- [A website of Git(the thing GitHub is built on)](https://git-scm.com/ "Not a shady site I promise")     
-- [A guide to Git, the version control system](https://www.atlassian.com/git/tutorials/what-is-git "This website is for BitBucket but since it's Git it works")     
+- A [quick video](https://youtu.be/w3jLJU7DT5E "YouTube link you see") on how GitHub works    
+- A [website](https://git-scm.com/ "Not a shady site I promise") of Git(the thing GitHub is built on)     
+- A [guide to Git](https://www.atlassian.com/git/tutorials/what-is-git "This website is for BitBucket but since it's Git it works"), the version control system     
 
 [1]: https://help.github.com/en/github/using-git/getting-changes-from-a-remote-repository "You may need to have git installed btw"
 [2]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches
